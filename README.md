@@ -1,84 +1,106 @@
-# 👨‍💻 *Umar Alam* — *Full Stack Developer | AI Enthusiast | Tech Explorer*
+$ cat README.md
 
-📧 *alamumar91@gmail.com*  
-📱 *+91-7398032771*  
-🌐 [*LinkedIn: UMAR ALAM*](https://www.linkedin.com/in/umar-alam-khan/)  
-💻 [*GitHub: UMAR-ALAM-786*](https://github.com/UMAR-ALAM-786)
+👨‍💻 Umar Alam — Full Stack Developer | AI Enthusiast | Tech Explorer
 
----
+📧 alamumar91@gmail.com   📱 +91-7398032771
+🌐 LinkedIn: umar-alam-khan   💻 GitHub: UMAR-ALAM-786
+🌍 Portfolio: umaralam-portfolio.netlify.app   📍 Bengaluru, KA
 
-## 🚀 *About Me*
+────────────────────────────────────────────────────────────────
 
-I'm *Umar Alam*, a passionate and self-driven *Full Stack Software Engineer* pursuing a *B.Tech in Computer Science and Engineering (2022–2025)* at *Khwaja Moinuddin Chishti Language University, Lucknow*. With over *30 real-world tech projects*, including *AI-powered systems*, *E-learning platforms*, and *medical diagnostic tools*, I bring a strong foundation in both development and innovation.
+🚀 About Me
 
-I specialize in building scalable, real-time, and research-backed applications — two of which have been *published in international journals (Google Scholar & Scopus indexed)*.
+Full Stack Software Engineer | B.Tech CSE (2022–2025)
+Khwaja Moinuddin Chishti Language University, Lucknow
+30+ real-world projects | 2 international research publications
+(Google Scholar & Scopus indexed)
 
----
+────────────────────────────────────────────────────────────────
 
-## 💼 *Experience*
+💼 Experience
 
-### 🏢 *Ramietech Solutions Pvt Ltd (Nov 2024 – Dec 2024)*  
-**Role:** Full Stack Software Engineer Intern  
-- Developed an *AI-powered Plant Leaf Disease Recognition System* with >95% accuracy on 100K+ images.  
-- Reduced crop losses by 35–50% and chemical use by 25%, enhancing sustainability in farming.  
-- Built a real-time diagnostic interface using *Streamlit + Deep CNN*, delivering disease predictions with confidence scores.  
-- *Tech Stack:* TensorFlow, Keras, OpenCV, NumPy, Streamlit, Docker
+🏢 OmneNEST | Bengaluru                     March 2026 – Present
+   Application Support Specialist
+  ● L1 production support for trading apps → +30% system uptime
+  ● Linux server deployments & log config → -35% incident resolution time
+  ● API & MySQL validation → -25% data-related defects
+  ● 93% SLA compliance | avg. 3-min client response time
+  ⚙  RHEL, MySQL, GitHub, API Testing, Incident & Change Mgmt
 
-### 🏢 *Bharat Intern Pvt Ltd (May 2024 – July 2024)*  
-**Role:** Full Stack Software Engineer Intern  
-- Designed *Alam-e-Study*, a unified E-learning platform boosting student engagement by 30% among 800+ students.  
-- Integrated AI chat, ad-block tools, smart clock, custom notes, TTS tools, quizzes, and more.  
-- Emphasized accessibility, productivity, and distraction-free learning using *Flask, ReactJS, and Python*.
+🏢 Prodigy Infotech Pvt Ltd | Remote          June 2024 – July 2024
+   Full Stack Developer Intern
+  ● AI Plant Disease Recognition → 100K+ images, 30+ diseases, 95%+ accuracy
+  ● -30% crop loss | -25% chemical use (sustainable precision farming)
+  ● Streamlit interface with deep CNN + confidence score output
+  ⚙  Python, TensorFlow, Keras, OpenCV, Streamlit, Jupyter Notebook
 
----
+🏢 Bharat Intern Pvt Ltd | Remote            May 2024 – June 2024
+   Full Stack Developer Intern
+  ● Built E-learning platform with 20+ integrated modules
+  ● AI chatbot, ad-free media, TTS, quizzes, drawing board, extensions
+  ⚙  Django, MERN, Flask, Python, APIs, Postman, V-Model SDLC
 
-## 🧠 *Projects*
+────────────────────────────────────────────────────────────────
 
-### 🌾 **Crop360** | *Holistic Plant & Crop Management*  
-- AI platform that *diagnoses diseases, recommends crops, and predicts yields* using climate, soil, and location data.  
-- Trained on *2+ lakh data points*, reaching *97% accuracy* and reducing crop loss by 30%.  
-- *Tech Stack:* Python, Streamlit, CNN, Modular SDLC
+🧠 Projects
 
-### 📚 **Alam-e-Study** | *E-learning Super App*  
-- Combines 20+ modules for an ad-free, AI-assisted study experience.  
-- Offers notepads, browser extensions, quizzes, AI chat (JARVIS), drawing tools, and curated resources.  
-- Adopted by *800+ students*, improving focus and reducing distractions by 40%.
+🌾 Crop360 — Holistic Plant & Crop Management System     Jan–Apr 2025
+  ● 3 modules: Disease Detection (97% acc.) | Crop Rec | Yield Predict
+  ● Trained on 2 lakh+ data points | -30% crop losses
+  ● Final year thesis | Submitted to Elsevier (Scopus, under review)
+  ⚙  Python, CNN, TensorFlow, Streamlit, Jupyter, Agile SDLC
 
-### 🧬 **PANDX AI** | *Medical Diagnostic and Recommendation System*  
-- Predicts diseases from user symptoms with *95%+ accuracy*.  
-- Returns medically aligned advice including medication, precautions, and dietary guidance.  
-- Especially useful in *rural/underserved regions*, improving early diagnosis by 60%.
+📚 Alam-e-Study — E-learning Web Application             Mar–Oct 2024
+  ● 20+ modules: AI assistant, clock, notepad, quizzes, ad-free media
+  ● +30% student engagement | -40% distractions | 300+ users
+  ⚙  MongoDB, Flask, ReactJS, Node.js, JS, HTML/CSS, Git
 
----
+🧬 PANDX AI — Medical Diagnostic & Recommendation System Dec 2023–Feb 2024
+  ● Symptom → diagnosis: description, meds, precautions, diet
+  ● 95%+ accuracy | -60%+ consultation delays | rural-focused
+  ⚙  Python, Django, Flask, Supervised ML, Jupyter, DSA
 
-## 📜 *Research Publications*
+────────────────────────────────────────────────────────────────
 
-1. 📖 *Alam-e-Study* — [Published in IJSRNSC (Google Scholar Indexed)](https://ijsrnsc.org/index.php/j/article/view/260)  
-2. 📖 *Crop360* — [Published by Elsevier (Scopus Indexed)](https://www.elsevier.com/)
+📜 Research Publications
 
----
+[1] Empowering Students: Integrated App for Productivity & Creativity
+    Published in IJSRNSC (Google Scholar–indexed) | Oct 2024
+    → https://ijsrnsc.org/index.php/j/article/view/260
 
-## 🏆 *Achievements*
+[2] AI-driven Crop Disease Detection, Yield Prediction & Recommendations
+    Submitted to Elsevier (Scopus-indexed) | Under peer-review
 
-- 🏅 *AIR 1113* in CUET 2022  
-- 🏅 *State Rank 30125* in JEECUP 2019  
-- 🏆 Winner – National Teachers’ Day E-Quiz 2021 (Govt. of India)  
-- 🧠 Completed *Harvard CS50*, *AI Workshops*, and *Prompt Engineering* courses
+────────────────────────────────────────────────────────────────
 
----
+🏆 Achievements
 
-## 🧰 *Tech Stack & Skills*
+  ● Solved 550+ DSA questions on LeetCode & GeeksforGeeks
+  ● AIR 1113 — CUET UG 2022
+  ● State Rank 30125 — JEECUP 2019
+  ● Winner — National Teachers Day E-Quiz 2021 (Govt. of India)
+  ● Harvard CS50 (2024) | NxtWave GenAI Workshop | GrowthSchool AI
 
-- **Languages:** Python, C++, JavaScript, HTML, CSS, SQL, MongoDB  
-- **Frameworks & Tools:** Flask, Django, ReactJS, NodeJS, FastAPI, Git, Docker  
-- **Libraries:** TensorFlow, Keras, OpenCV, NumPy, Pandas, scikit-learn, Matplotlib  
-- **Concepts:** OOPs, DSA, Agile SDLC, AI/ML, Full Stack Development  
-- **Tools:** Streamlit, Jupyter Notebook, IBM Cloud, GraphQL, Unity
+────────────────────────────────────────────────────────────────
 
----
+🧰 Tech Stack
 
-## 📈 *Let's Collaborate!*
+Languages    Python  C++  JavaScript  HTML  CSS
+Frontend     React  Bootstrap  Tailwind CSS
+Backend      Node.js  Express.js  Django  Flask  FastAPI
+Databases    MongoDB  MySQL
+AI / ML      TensorFlow  Keras  scikit-learn  Pandas  NumPy  CNN
+DevOps       Git  GitHub  Docker  AWS  Postman  CI/CD
+Concepts     OOP  DSA  REST APIs  Agile/Scrum  Blockchain
 
-I'm open to internships, freelance opportunities, and collaborative research projects. Feel free to reach out or connect on [LinkedIn](https://www.linkedin.com/in/umar-alam-khan/).
+────────────────────────────────────────────────────────────────
 
-Let’s build the future of tech — together! 🚀
+📈 Let's Collaborate!
+
+Open to full-stack roles, AI/ML projects, freelance & research collab.
+🔗 linkedin.com/in/umar-alam-khan
+💻 github.com/UMAR-ALAM-786
+
+Let's build the future of tech — together! 🚀
+
+$ █
