@@ -1,4 +1,4 @@
-$ cat README.md
+
 
 👨‍💻 Umar Alam — Full Stack Developer | AI Enthusiast | Tech Explorer
 
